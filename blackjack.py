@@ -1,5 +1,5 @@
 import random
-import blackjackart
+
 
 users_cards = []
 comps_cards = []
